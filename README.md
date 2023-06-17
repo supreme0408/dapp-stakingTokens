@@ -10,5 +10,5 @@
 - > npm install
 - > npm start
 
-## First guided project made using dappuniversity.
+## First guided project made with dappuniversity.
 
