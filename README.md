@@ -6,7 +6,7 @@
     - 3.TokenFarm.sol Contract : This uses the DAI token and DAPP token contracts. This lets user to skate token, unstake token.
 
 # Use this Project
-> Use git clone
-> npm install
-> npm start
+- > Use git clone
+- > npm install
+- > npm start
 
